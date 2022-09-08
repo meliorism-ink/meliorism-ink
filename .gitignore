@@ -3,3 +3,6 @@
 
 # js or node related
 node_modules/
+
+# vitepress
+dist

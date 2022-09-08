@@ -11,7 +11,7 @@ export default {
             link: '/about-me'
           }
         ],
-        
+
       },
       {
         text: 'Random',
@@ -32,5 +32,6 @@ export default {
   footer: {
     message: 'Made by Kumar Gaurav.',
     copyright: 'Copyright © 2019-present by Kumar Gaurav'
-  }
+  },
+  outDir: './dist'
 }
