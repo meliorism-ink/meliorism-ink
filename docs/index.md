@@ -1,6 +1,6 @@
 # Meliorism
 
-: the belief that the world tends to improve and that humans can aid its betterment
+: the belief that the world tends to improve and that humans can aid its betterment  
 [Source: Merriam-Webster](https://www.merriam-webster.com/dictionary/meliorism)
 
 ## This is my own digital space
