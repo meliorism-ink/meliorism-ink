@@ -21,10 +21,16 @@ export default {
         ]
       },
       {
-        text: 'Essays',
+        text: 'Thoughts',
         items: [
           { text: 'Why it feels so wrong?', link: '/essays/1' },
           { text: 'Strong Opinions Weakly Held', link: '/essays/2' },
+        ]
+      },
+      {
+        text: 'Engineering',
+        items: [
+          { text: 'Learnings in Software Engineering', link: '/' }
         ]
       }
     ]
