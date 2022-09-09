@@ -30,7 +30,7 @@ export default {
       {
         text: 'Engineering',
         items: [
-          { text: 'Learnings in Software Engineering', link: '/' }
+          { text: 'Learnings in Software Engineering', link: '/learnings-in-software-engineering' }
         ]
       }
     ]
