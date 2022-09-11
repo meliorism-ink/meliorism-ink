@@ -1,24 +1,25 @@
 # Kumar Gaurav
 
-
 ## \<Some pretentious bio\>
 
 I have never been able to come up with a good bio for me.
 Once I achieve something remarkable, you will find it on every media-source.
-Till then, get to know me through this space.
+Till then, get to know me through this [space](https://meliorism.ink).
 
-Still, in case you want to, reach me on twitter or on any social-media you can find me.
+Still, in case you want to, reach me on [twitter](https://twitter.com/ikmrgrv) or on any social-media app you find me.
 
-## Things you would expect here - 
+## Things you can expect here -
 
 * "That's what she said" quotes
 * Batman and Marvel references
 * Characters from Naruto, Dota2 and similar things.
-* My learnings Software Engineering from a few years of experience
-* My understanding of business, startups, economics, goernment and societies from having worked in various industries, in three different career domains.
-* Anecdotes indulging my friends and me!
+* My learnings in Software Engineering from a few years of experience
+* My understanding of business, startups, economics, government and societies from having worked in various industries, and in different domains
+* Anecdotes with my friends and me!
 * Travel experiences and music, tons of music.
 
 ### I am on [Twitter](https://twitter.com/ikmrgrv) btw
+
+### And also on [Peerlist](https://peerlist.io/kumargaurav)
 
 ...

@@ -1,43 +1,53 @@
 export default {
-  title: 'meliorism.ink',
-  description: 'Inking my hopes | Kumar Gaurav',
+  title: "meliorism.ink",
+  description: "Inking my hopes | Kumar Gaurav",
   themeConfig: {
     sidebar: [
       {
-        text: '',
+        text: "",
         items: [
           {
-            text: 'About Me',
-            link: '/about-me'
-          }
+            text: "About Me",
+            link: "/about-me",
+          },
         ],
-
       },
       {
-        text: 'Random',
+        text: "Thoughts",
         items: [
-          { text: 'Quotes', link: '/quotes' },
-          { text: 'Tweets', link: 'https://twitter.com/ikmrgrv' },
-        ]
+          { text: "Why it feels so wrong?", link: "/essays/1" },
+          { text: "Strong Opinions Weakly Held", link: "/essays/2" },
+        ],
       },
       {
-        text: 'Thoughts',
+        text: "Engineering",
         items: [
-          { text: 'Why it feels so wrong?', link: '/essays/1' },
-          { text: 'Strong Opinions Weakly Held', link: '/essays/2' },
-        ]
+          {
+            text: "Learnings in Software Engineering",
+            link: "/engineering/learnings-in-software-engineering",
+          },
+          {
+            text: "Setting up my mac and dev env",
+            link: "/engineering/set-up-mac-for-dev",
+          },
+          {
+            text: "Useful free resources for prototyping web-apps quickly",
+            link: "/engineering/web-app-prototyping-free-resources",
+          },
+        ],
       },
       {
-        text: 'Engineering',
+        text: "Random",
         items: [
-          { text: 'Learnings in Software Engineering', link: '/engineering/learnings-in-software-engineering' }
-        ]
-      }
-    ]
+          { text: "Quotes", link: "/quotes" },
+          { text: "Tweets", link: "https://twitter.com/ikmrgrv" },
+        ],
+      },
+    ],
   },
   footer: {
-    message: 'Made by Kumar Gaurav.',
-    copyright: 'Copyright © 2019-present by Kumar Gaurav'
+    message: "Made by Kumar Gaurav.",
+    copyright: "Copyright © 2019-present by Kumar Gaurav",
   },
-  outDir: './dist'
-}
+  outDir: "./dist",
+};
