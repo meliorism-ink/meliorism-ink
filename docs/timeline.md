@@ -14,6 +14,8 @@
 * 2011 - Second Cricket World Cup memory
 * 2011 - Shifted to Bhilai, CG
 * 2014 - Shifted to Bangalore, joined College.
+* 2019 - Saw Samisha for the first time.
 * 2019 - Last Cricket World watched
+* 2020 - Met Samisha for the first time.
 * 2021 - Joined Quiph
 * 2022 - Joined Quizizz
