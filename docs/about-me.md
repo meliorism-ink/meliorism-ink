@@ -20,6 +20,6 @@ Still, in case you want to, reach me on [twitter](https://twitter.com/ikmrgrv) o
 
 ### I am on [Twitter](https://twitter.com/ikmrgrv) btw
 
-### And also on [Peerlist](https://peerlist.io/kumargaurav)
+### Also, find me on [Peerlist](https://peerlist.io/kumargaurav), [Github](https://github.com/ikmrgrv)
 
 ...

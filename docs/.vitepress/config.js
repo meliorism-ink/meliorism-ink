@@ -23,17 +23,26 @@ export default {
         text: "Engineering",
         items: [
           {
-            text: "Learnings in Software Engineering",
+            text: "MacBook Setup",
+            link: "/engineering/macbook-setup",
+          },
+          {
+            text: "WebDevelopment Resources",
+            link: "/engineering/webdevelopment-resources",
+          },
+        ],
+      },
+      {
+        text: "In Progress...",
+        items: [
+          {
+            text: "Good to have Problems",
+            link: "/engineering/good-to-have-problems",
+          },
+          {
+            text: "Learnings in Software Engg",
             link: "/engineering/learnings-in-software-engineering",
-          },
-          {
-            text: "Setting up my mac and dev env",
-            link: "/engineering/set-up-mac-for-dev",
-          },
-          {
-            text: "Useful free resources for prototyping web-apps quickly",
-            link: "/engineering/web-app-prototyping-free-resources",
-          },
+          }
         ],
       },
       {
