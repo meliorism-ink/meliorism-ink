@@ -5,7 +5,7 @@
 MacBooks are amazing machine for Software Engineers.  
 Though little costly, these are totally worth of every penny spend.
 
-## Stuffs I have installed or use
+## Stuffs I have on my mac
 
 ----
 
