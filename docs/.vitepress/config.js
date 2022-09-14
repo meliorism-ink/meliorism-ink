@@ -1,6 +1,6 @@
 export default {
-  title: "meliorism.ink",
-  description: "Inking my hopes | Kumar Gaurav",
+  title: "hope for better world",
+  description: "Inking my hopes. Meliorism the belief that the world tends to improve and that humans can aid its betterment. Meliorism is my own personal digital space, where I share my thoughts and ideas. | Kumar Garuav",
   themeConfig: {
     sidebar: [
       {
