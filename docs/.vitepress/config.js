@@ -1,5 +1,5 @@
 export default {
-  title: "meliorism.ink",
+  title: "my hopes for a better world",
   description: "Inking my hopes, thoughts and ideas in my own digital space. Meliorism is the belief that the world tends to improve and that humans can aid its betterment.",
   themeConfig: {
     sidebar: [
@@ -30,6 +30,14 @@ export default {
             text: "WebDevelopment Resources",
             link: "/engineering/webdevelopment-resources",
           },
+          {
+            text: "My Digital Library",
+            link: "/engineering/my-digital-library",
+          },
+          {
+            text: "Learnings in Software Engg",
+            link: "/engineering/learnings-in-software-engineering",
+          }
         ],
       },
       {
@@ -37,11 +45,7 @@ export default {
         items: [
           {
             text: "Good to have Problems",
-            link: "/engineering/good-to-have-problems",
-          },
-          {
-            text: "Learnings in Software Engg",
-            link: "/engineering/learnings-in-software-engineering",
+            link: "/essays/good-to-have-problems",
           }
         ],
       },
@@ -53,6 +57,7 @@ export default {
         ],
       },
     ],
+    siteTitle: 'Meliorism'
   },
   footer: {
     message: "Made by Kumar Gaurav.",

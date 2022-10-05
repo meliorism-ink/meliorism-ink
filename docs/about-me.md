@@ -20,6 +20,11 @@ Still, in case you want to, reach me on [twitter](https://twitter.com/ikmrgrv) o
 
 ### I am on [Twitter](https://twitter.com/ikmrgrv) btw
 
+If you want to reach out to me, drop me a tweet.  
+I could be handy for a advice on career for people in early to mid 20s. I have previously mentored a few people at various orgnaization who are doing really well today.
+
+I am open for any partnership, project or entrepreneurship opportunity as well.
+
 ### Also, find me on [Peerlist](https://peerlist.io/kumargaurav), [Github](https://github.com/ikmrgrv)
 
 ...
