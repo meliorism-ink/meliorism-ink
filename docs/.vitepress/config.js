@@ -1,5 +1,5 @@
 export default {
-  title: "| hopes for better world",
+  title: "meliorism.ink",
   description: "Inking my hopes, thoughts and ideas in my own digital space. Meliorism is the belief that the world tends to improve and that humans can aid its betterment.",
   themeConfig: {
     sidebar: [
