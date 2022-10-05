@@ -15,8 +15,5 @@ To support me, you can buy me an ice-cream anyday anytime :joy:
 
 * [Some Quotes](/quotes)
 * [Little Hearts 🧡](https://twitter.com/ikmrgrv/status/1562844401210380289?s=20&t=dXhDWioyueFEIwt9zTXWpQ)
+* [My opinions in Software Engineering](/engineering/learnings-in-software-engineering)
 * [Why it feels so wrong](/essays/1.md)
-
-### Made with tons of procrastination and launched it on 28th of August, 2022
-
-### Found the domain and deployed by 8th of September, 2022
