@@ -7,8 +7,8 @@ export const sidebar = {
     {
       text: 'Latest journals',
       items: [
-        { text: 'December 2022', link: '/diary/2022/december' },
         { text: 'January 2023', link: '/diary/2023/january' },
+        { text: 'December 2022', link: '/diary/2022/december' },
       ]
     },
     {
