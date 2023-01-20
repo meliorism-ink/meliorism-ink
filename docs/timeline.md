@@ -6,6 +6,7 @@
 * September 6, 2022 - Finalised the name Meliorism and bought the domain
 * September 7, 2022 - Hosted it, finally :)
 * September 12, 2022 - Added topics for September.
+* January 21, 2023 - Updated. Introduced diary
 
 ## Life Events
 
@@ -18,3 +19,4 @@
 * 2019 - Last Cricket World watched
 * 2021 - Joined Quiph
 * 2022 - Joined Quizizz
+* 2023 - Strated working on my dreams. Resinged from Quizizz.

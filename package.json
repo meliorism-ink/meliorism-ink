@@ -1,9 +1,10 @@
 {
   "name": "meliorism-ink",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Inking my thoughts in this digital format",
   "author": {
-    "name": "Kumar Gaurav"
+    "name": "Kumar Gaurav",
+    "link": "meliorism.ink/about-met"
   },
   "main": "index.js",
   "scripts": {
