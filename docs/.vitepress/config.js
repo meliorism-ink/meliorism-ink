@@ -19,5 +19,6 @@ export default {
     message: "Made by Kumar Gaurav.",
     copyright: "Copyright © 2019-present by Kumar Gaurav",
   },
-
+  outDir: '../dist',
+  cleanUrls: 'without-subfolders'
 };
