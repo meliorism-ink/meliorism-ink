@@ -18,4 +18,4 @@ Divya has always been a caring and supportive friend. I have seen her growing fr
 
 I watched a beautiful sunset at Bellary fort. [Her highness Princess Nidhi](https://twitter.com/Nidhi_vinaykiya) took us on a tour of her empire. [Food Bells](https://goo.gl/maps/NRU9GAAfZqh6gPki6) is a great place for hangout in Bellary.
 
-Back to brainstorming on Twople(twople.club)
+Back to brainstorming on [Twople](https://twople.in)
