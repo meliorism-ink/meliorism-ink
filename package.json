@@ -15,10 +15,10 @@
   "keywords": [],
   "license": "ISC",
   "dependencies": {
-    "vitepress": "^1.0.0-alpha.13",
-    "vue": "^3.2.38"
+    "vitepress": "^1.0.0-alpha.45",
+    "vue": "^3.2.47"
   },
   "devDependencies": {
-    "shiki": "^0.11.1"
+    "shiki": "^0.14.1"
   }
 }
