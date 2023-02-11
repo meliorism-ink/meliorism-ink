@@ -15,7 +15,7 @@ What's going on in my mind -
 
 [Bellary](https://goo.gl/maps/M6ajd6eLLGikb4Lj6) trip was a good memoir.  
 Divya has always been a caring and supportive friend. I have seen her growing from a shoe-stepper to a good data science student. I am sure she will establish herself as an even better professional.  
-It was a spectacular wedding and I wish her a lifetime of love and happiness ahead. I wish her a good learning on her experiments with [Mitahara](https://mitahara.co/).
+It was a spectacular wedding and I wish her a lifetime of love and happiness ahead. May she get a good future for her experiments with [Mitahara](https://mitahara.co/).
 
 I watched a beautiful sunset at Bellary fort. [Her highness Princess Nidhi](https://twitter.com/Nidhi_vinaykiya) took us on a tour of her empire. [Food Bells](https://goo.gl/maps/NRU9GAAfZqh6gPki6) is a great place for hangout in Bellary.
 
