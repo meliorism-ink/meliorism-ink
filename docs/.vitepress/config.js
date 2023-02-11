@@ -20,5 +20,5 @@ export default {
     copyright: "Copyright © 2019-present by Kumar Gaurav",
   },
   outDir: '../dist',
-  cleanUrls: 'without-subfolders'
+  cleanUrls: true
 };

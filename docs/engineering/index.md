@@ -1,3 +1,7 @@
+---
+aside: false
+---
+
 # Engineering
 
 Since I have been a developer for most of my professional career, I feel its easiest for me to write about Software Engineering.
