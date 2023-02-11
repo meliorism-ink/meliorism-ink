@@ -9,7 +9,7 @@ export default {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Diary', link: '/diary/' },
-      { text: 'Eaasys', link: '/essays/' },
+      { text: 'Essays', link: '/essays/' },
       { text: 'Engineering', link: '/engineering/' }
     ],
     sidebar,
