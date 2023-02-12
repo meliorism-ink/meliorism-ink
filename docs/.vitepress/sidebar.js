@@ -7,6 +7,7 @@ export const sidebar = {
     {
       text: 'Latest journals',
       items: [
+        { text: 'February 2023', link: '/diary/2023/february' },
         { text: 'January 2023', link: '/diary/2023/january' },
         { text: 'December 2022', link: '/diary/2022/december' },
       ]
@@ -15,6 +16,7 @@ export const sidebar = {
       text: '2023',
       collapsible: true,
       items: [
+        { text: 'February 2023', link: '/diary/2023/february' },
         { text: 'January 2023', link: '/diary/2023/january' },
       ]
     },
