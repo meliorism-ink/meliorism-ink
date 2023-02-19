@@ -31,7 +31,7 @@ The following week and rest of feb will see a web presence for [Twople](https://
 #### This week, I watched -  
 * [Some chess tips to improve if you are under 1400](https://www.youtube.com/watch?v=mRscRsIHRGI)  
 I am at around 1000 now. Gotta work a lot on my moves.
-* [React.js - The Documentary by HoneyPot](https://www.youtube.com/watch?v=8pDqJVdNa44)
+* [React.js - The Documentary by HoneyPot](https://www.youtube.com/watch?v=8pDqJVdNa44)  
 [HoneyPot](https://www.honeypot.io/) makes some of the best documentary in the web domain.
 * [How Finance Works - The HBR Guide](https://www.youtube.com/watch?v=8RxBbls_81U)  
 [HBR](https://hbr.org/) has tons to offer to learn. I have always dreamed of experiencing life at [Harvard](https://www.harvard.edu/) someday.
@@ -40,6 +40,11 @@ I am at around 1000 now. Gotta work a lot on my moves.
 
 ###### Chayos, 27th Main  
 ###### HSR Layout
+
+::: tip On Failures and Success in Entrepreneurship
+The bad news is, you will fail a lot in your Entrepreneurship journey.  
+The good news is, you need to succeed just once.
+:::
 
 What makes entrepreneurship tough, specially for first timers, is that one doesn't know what one doesn't know.
 It's like [Shikamaru Nara](https://naruto.fandom.com/wiki/Shikamaru_Nara) fighting the unknown [Akatsuki](https://naruto.fandom.com/wiki/Akatsuki). It's one thing to fight a tough enemy, it's another to fight what's unknown.  
