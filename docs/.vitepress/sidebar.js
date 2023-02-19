@@ -15,6 +15,7 @@ export const sidebar = {
     {
       text: '2023',
       collapsible: true,
+      collapsed: false,
       items: [
         { text: 'February 2023', link: '/diary/2023/february' },
         { text: 'January 2023', link: '/diary/2023/january' },
