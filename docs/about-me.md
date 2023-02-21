@@ -23,7 +23,7 @@ Though I have lived in these states before - Chattishgarh, Delhi, Gujarat, Karna
 ### Reach out to me
 
 I am on [Twitter](https://twitter.com/ikmrgrv) btw
-If you want to reach out to me, drop me a tweet.  
+If you want to reach out to me, drop me a tweet or block my calender via [Calendly](https://calendly.com/ikumargaurav)
 
 Want an advice on career for people in early 20s ??
 I have previously mentored a few people at various orgnaization who are doing really well today.
