@@ -79,3 +79,14 @@ A good take on who we should tone our mind to succeed and merely win.
 #### Current Read -
 [The CEO Factory](https://amzn.to/3S914RT)  
 Insights from Hindustan UniLever's take on Marketing, Management and Business lessons. I love the small anecdotes Sudhir wrote about in the book.
+
+## Monday 28th
+
+###### Independence Park
+###### HSR Layout
+
+::: tip On Failures and Success in Entrepreneurship
+People make mistakes.  
+That's why they put rubbers on the end of pencils!
+:::
+
