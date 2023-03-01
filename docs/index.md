@@ -3,6 +3,8 @@
 : the belief that the world tends to improve and that humans can aid its betterment  
 [Source: Merriam-Webster](https://www.merriam-webster.com/dictionary/meliorism)
 
+Read more about [Meliorism on Wikipedia.](https://en.wikipedia.org/wiki/Meliorism)
+
 ## My own digital space
 
 I put up my thoughts (both random and some well-thought ones) here.  
