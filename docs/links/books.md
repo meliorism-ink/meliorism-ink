@@ -1,6 +1,12 @@
+---
+
+---
+
 # Books
 
 Some really good books that I would recommend.
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=meliorism-21&language=en_IN&marketplace=amazon&region=IN&placement=1529029589&asins=1529029589&linkId=a7261dc0357374543aad2aca576157f5&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <a href="https://www.amazon.in/This-Marketing-Seth-Godin/dp/0241370140?crid=J1BRNBAAA1YF&keywords=this+is+marketing&qid=1676992742&sprefix=this+is+marketin%2Caps%2C236&sr=8-3&linkCode=li2&tag=meliorism-21&linkId=74ca6eac547de8e4cb413fac569ee3dc&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0241370140&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=meliorism-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=meliorism-21&language=en_IN&l=li2&o=31&a=0241370140" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
