@@ -15,3 +15,10 @@ Some really good books that I would recommend.
 <a href="https://www.amazon.in/CEO-Factory-Management-Hindustan-Unilever/dp/9353451140?pd_rd_w=99eSK&content-id=amzn1.sym.59eebe5b-59e3-4882-b364-90a7b22774a2&pf_rd_p=59eebe5b-59e3-4882-b364-90a7b22774a2&pf_rd_r=NJVQPGB3BY13ZXVBHY5P&pd_rd_wg=q7nTC&pd_rd_r=e8e5f543-db19-4df9-a63c-6101073dacb7&pd_rd_i=9353451140&psc=1&linkCode=li2&tag=meliorism-21&linkId=86871596da8cc1bf950e5406237841aa&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=9353451140&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=meliorism-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=meliorism-21&language=en_IN&l=li2&o=31&a=9353451140" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a href="https://www.amazon.in/Man-Called-Ove-life-affirming-bestseller/dp/1444775812?crid=3QPLDQLXY2HQQ&keywords=man+called+ove&qid=1676992992&s=books&sprefix=man+called+ov%2Cstripbooks%2C208&sr=1-1&linkCode=li2&tag=meliorism-21&linkId=1c5be0f1e77702151256cf77015edfb4&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1444775812&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=meliorism-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=meliorism-21&language=en_IN&l=li2&o=31&a=1444775812" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+### Books for Affliate benefits
+
+* [Until Then, there is Coffee](https://amzn.to/3YPwiiL)
+* [Toshikazu Kawaguchi Books Combo: Before the Coffee Gets Cold and Tales from the Cafe](https://amzn.to/3TohKp5)
+* [Before Your Memory Fades](https://amzn.to/3Ln2zKK)
