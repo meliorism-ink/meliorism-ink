@@ -12,7 +12,7 @@ Though I have lived in these states before - Chattishgarh, Delhi, Gujarat, Karna
 
 ## Things you can expect here -
 
-* My learnings in Software Engineering from a few years of experience
+* My learnings in Software Engineering from about 5+ years of experience
 * My understanding of business, startups, economics, government and societies from having worked in various industries, and in different domains
 * Anecdotes with my friends and me!
 * Travel experiences and music, tons of music.
