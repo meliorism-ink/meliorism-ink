@@ -29,9 +29,7 @@ features:
 import AboutMe from './src/components/AboutMe.vue'
 </script>
 
-
 # [Meliorism](https://meliorish.ink)
-
 
 <!-- 
 : the belief that the world tends to improve and that humans can aid its betterment  
