@@ -23,13 +23,16 @@ features:
   - title: Another cool feature
     details: Lorem ipsum...
 
+
 ---
+<script setup>
+import AboutMe from './src/components/AboutMe.vue'
+</script>
+
 
 # [Meliorism](https://meliorish.ink)
 
-<script setup>
-import CustomComponent from './src/components/AboutMe.vue'
-</script>
+
 <!-- 
 : the belief that the world tends to improve and that humans can aid its betterment  
 [Source: Merriam-Webster](https://www.merriam-webster.com/dictionary/meliorism)

@@ -1,9 +1,9 @@
-# os specific
-.DS_Store
-
 # js or node related
 node_modules/
 
 # vitepress
 dist
-docs/.vitepress/cache
+blog/.vitepress/cache
+
+# os specific
+.DS_Store
