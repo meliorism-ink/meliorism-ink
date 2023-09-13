@@ -15,7 +15,7 @@
   "keywords": [],
   "license": "ISC",
   "dependencies": {
-    "vitepress": "^1.0.0-alpha.45",
+    "vitepress": "^1.0.0-rc.13",
     "vue": "^3.2.47"
   },
   "devDependencies": {
