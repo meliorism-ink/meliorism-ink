@@ -4,21 +4,24 @@
   "description": "Inking my thoughts in this digital format",
   "author": {
     "name": "Kumar Gaurav",
-    "link": "meliorism.ink/about-met"
+    "link": "meliorism.ink"
   },
   "main": "index.js",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs"
+    "blog:dev": "vitepress dev blog",
+    "blog:build": "vitepress build blog",
+    "blog:serve": "vitepress serve blog"
   },
   "keywords": [],
   "license": "ISC",
   "dependencies": {
-    "vitepress": "^1.0.0-alpha.45",
+    "vitepress": "^1.0.0-rc.13",
     "vue": "^3.2.47"
   },
   "devDependencies": {
-    "shiki": "^0.14.1"
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.29",
+    "shiki": "^0.14.1",
+    "tailwindcss": "^3.3.3"
   }
 }
