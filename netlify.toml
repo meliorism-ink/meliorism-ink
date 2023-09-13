@@ -10,5 +10,5 @@
     pwa = 0.1
 
   # optional, deploy the lighthouse report to a path under your site
-  [plugins.inputs]
+  [plugins.inputs.audits]
     output_path = "reports/lighthouse.html"
