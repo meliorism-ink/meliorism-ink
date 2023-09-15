@@ -2,6 +2,7 @@
   "name": "meliorism-ink",
   "version": "0.2.0",
   "description": "Inking my thoughts in this digital format",
+  "type": "module",
   "author": {
     "name": "Kumar Gaurav",
     "link": "meliorism.ink"
