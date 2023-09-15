@@ -7,4 +7,4 @@ I write what I overthink about!
 Meliorism is the belief that the world tends to improve and that humans can aid its betterment.  
 This is my own personal digital space, where I share my thoughts and ideas.
 
-I can be reached on [Twitter](https://twitter.com/ikmrgrv) or on [Linkedin](https://linkedin.com/in/ikmrgrv)
+I can be reached on [Twitter](https://twitter.com/ikmrgrv) or on [Linkedin](https://linkedin.com/in/heykumargaurav)

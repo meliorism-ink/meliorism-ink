@@ -28,6 +28,6 @@ I have previously mentored a few people at various orgnaization who are doing re
 
 I am open for any partnership, project or entrepreneurship opportunity as well.
 
-#### One can also find me on [Peerlist](https://peerlist.io/kumargaurav), [Github](https://github.com/ikmrgrv), or [LinkedIn](https://linkedin.com/in/kumargaurav)
+#### One can also find me on [Peerlist](https://peerlist.io/kumargaurav), [Github](https://github.com/ikmrgrv), or [LinkedIn](https://linkedin.com/in/heykumargaurav)
 
 ...
